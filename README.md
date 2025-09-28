@@ -4,6 +4,8 @@ AI Interview Assistant is an interactive web application designed to help users 
 
 <img width="1919" height="1015" alt="screenshot-1" src="https://github.com/user-attachments/assets/86132781-9187-49ee-b22e-f1eaf50ff14e" />
 
+
+
 <img width="1919" height="1019" alt="screenshot-2" src="https://github.com/user-attachments/assets/502d87e4-1bc5-4601-b202-57f612c56ad7" />
 
 
@@ -25,10 +27,11 @@ AI Interview Assistant is an interactive web application designed to help users 
 
 1. Clone the repository:
 git clone https://github.com/ps982182/AI_Interview.git
+
 cd AI_Interview
 
 
-2. Create and activate a Python virtual environment:
+3. Create and activate a Python virtual environment:
 - On Windows:
   ```
   python -m venv ai_interview_env
