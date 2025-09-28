@@ -27,7 +27,6 @@ AI Interview Assistant is an interactive web application designed to help users 
 
 1. Clone the repository:
 git clone https://github.com/ps982182/AI_Interview.git
-
 cd AI_Interview
 
 
