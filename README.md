@@ -1,7 +1,11 @@
 # AI Interview Assistant
 
-## About
 AI Interview Assistant is an interactive web application designed to help users practice and prepare for interviews using AI-powered question-answering features. The app leverages a Python backend and front-end technologies including JavaScript, CSS, and HTML to deliver a smooth user experience.
+
+<img width="1919" height="1015" alt="screenshot-1" src="https://github.com/user-attachments/assets/86132781-9187-49ee-b22e-f1eaf50ff14e" />
+
+<img width="1919" height="1019" alt="screenshot-2" src="https://github.com/user-attachments/assets/502d87e4-1bc5-4601-b202-57f612c56ad7" />
+
 
 ## Features
 - Voice interaction for asking and answering interview questions
