@@ -23,7 +23,6 @@ AI Interview Assistant is an interactive web application designed to help users 
 git clone https://github.com/ps982182/AI_Interview.git
 cd AI_Interview
 
-text
 
 2. Create and activate a Python virtual environment:
 - On Windows:
@@ -40,12 +39,10 @@ text
 3. Install dependencies:
 pip install -r requirements.txt
 
-text
 
 4. Run the application:
 python assist.py
 
-text
 
 ## Usage
 - Start the app and use the microphone to ask interview questions.
